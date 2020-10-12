@@ -16,11 +16,11 @@
 
 ### bilibili
 
-B站视频空间
+B 站视频空间
 
 https://space.bilibili.com/515485124
 
-B站直播间
+B 站直播间
 
 http://live.bilibili.com/22230973
 
@@ -79,4 +79,3 @@ SIG 的全称是 Special Interests Group, 或称 Super Intellectual Genius。
 ## Contributors
 
 我非常重视每一个对这个项目的贡献者，我会将贡献者列表更新到这里，目前只有提交 Pull Request 的小伙伴，但是贡献不仅仅如此，还可以包括提交 Issue 以及在社群中有所贡献的人。
-
