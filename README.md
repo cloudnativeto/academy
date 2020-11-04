@@ -53,6 +53,9 @@ http://live.bilibili.com/22230973
 
 | 期数 | 标题                                                                                                            | 分享人                                                                   | 回看                                                                                                                                                   |
 | :--: | :-------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 8  | 2020-10-28 Envoy 调试流量的常用技巧                         | 周礼赞 | [Bilibili](https://www.bilibili.com/video/BV1Qa411A7hF) |
+| 7  | 2020-10-29 基于 Kubernetes 构建标准可扩展的云原生应用管理平台  | 周正   | [Bilibili](https://www.bilibili.com/video/BV1r5411L7Qr) |
+| 6  | 2020-10-22 基于 Red Hat OpenShift 4 构建 Paas、DevOps 平台 | 魏新宇 | [Bilibili](https://www.bilibili.com/video/BV19p4y1k7yA) |
 | 5  | 2020-10-15 云原生消息流平台 Apache Pulsar 深度解析                                           | 翟佳                                                        | [Bilibili](https://www.bilibili.com/video/BV1tV41127PD/)                                                       |
 | 4  | 2020-09-24 服务网格下的东西向与南北向流量管理实践                                           | 王夕宁                                                        | [Bilibili](https://www.bilibili.com/video/BV1Gp4y1Y7ex)                                                       |
 | 3  | [2020-09-17 基于 Apache APISIX 的全流量 API 网关](https://mp.weixin.qq.com/s/p8__ZXzOANRD4RkmcuegXA)                                           | 温铭                                                        | [Bilibili](https://www.bilibili.com/video/BV1Gt4y1q7qC)                                                       |
