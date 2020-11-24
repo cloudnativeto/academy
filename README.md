@@ -27,6 +27,8 @@
 
 | **期数** | **日期**   | **标题**                                                     | **分享人** | **回看**                                                 |
 | -------- | ---------- | ------------------------------------------------------------ | ---------- | -------------------------------------------------------- |
+| **10**   | 2020-11-19 | APISIX Skywalking 的最佳实践           | 王院生     | [Bilibili](https://www.bilibili.com/video/BV1rA411x7vB)  |
+| **9**    | 2020-11-12 | Harbor 助你玩转云原生           | 邹佳     | [Bilibili](https://www.bilibili.com/video/BV17y4y167dP)  |
 | **8**    | 2020-10-28 | 基于 Kubernetes 构建标准可扩展的云原生应用管理平台           | 周正喜     | [Bilibili](https://www.bilibili.com/video/BV1r5411L7Qr)  |
 | **7**    | 2020-10-27 | [Envoy 调试流量的常用技巧](https://mp.weixin.qq.com/s/he1QPcdPIm5IseoCMTaZaw) | 周礼赞     | [Bilibili](https://www.bilibili.com/video/BV1Qa411A7hF)  |
 | **6**    | 2020-10-22 | 基于 Red Hat OpenShift 4 构建 PaaS、DevOps 平台              | 魏新宇     | [Bilibili](https://www.bilibili.com/video/BV19p4y1k7yA)  |
