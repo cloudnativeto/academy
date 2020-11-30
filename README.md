@@ -11,5 +11,5 @@
 
 关注「云原生社区」的微信公众号，我们将会定期发布分享预告，以及不定期的分享优质的技术文章。
 
-![](doc/images/subscription.png)
+![](images/subscription.png)
 
