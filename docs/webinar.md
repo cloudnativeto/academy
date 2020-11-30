@@ -2,7 +2,9 @@
 description: 线上直播汇总
 ---
 
-# 线上直播汇总
+## 直播回放
+
+以下是历届线上分享的介绍及直播回看地址归档。
 
 | **期数** | **日期**   | **标题**                                                     | **分享人** | **回看**                                                 |
 | -------- | ---------- | ------------------------------------------------------------ | ---------- | -------------------------------------------------------- |
@@ -17,3 +19,6 @@ description: 线上直播汇总
 | **2**    | 2020-08-20 | [TiDB Operator 架构与实现](https://mp.weixin.qq.com/s/csvunkyScbzV1E3ypCTOZA) | 付业成     | [Bilibili](https://www.bilibili.com/video/BV1Zt4y1U74M)  |
 | **1**    | 2020-08-13 | [后分布式追踪时代的性能问题定位——方法级性能剖析](https://mp.weixin.qq.com/s/-i-KP5JTd1mUiMMK0gVRDA) | 吴晟       | [Bilibili](https://www.bilibili.com/video/BV1D541187kC)  |
 
+## PPT 下载
+
+PPT 下载见 [webinar](https://github.com/cloudnativeto/academy/tree/master/webinar/)。
