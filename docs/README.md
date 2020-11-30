@@ -13,26 +13,26 @@ description: 由云原生社区主办的知识分享平台。
 
 我们的选题范围包括但不限于：
 
-- 容器
-- Kubernetes
-- Service Mesh
-- 可观测性
-- DevOps
-- 开源治理
-- 开源文化
+* 容器
+* Kubernetes
+* Service Mesh
+* 可观测性
+* DevOps
+* 开源治理
+* 开源文化
 
 ## 云原生社区 Meetup
 
-云原生社区 meetup 是由云原生社区主办的，在全国各地举办的线下活动，活动的 PPT 归档在 [meetup](./meetup/) 目录中。
+云原生社区 meetup 是由云原生社区主办的，在全国各地举办的线下活动，活动的 PPT 归档在 [meetup](https://github.com/cloudnativeto/academy/tree/5ca208ad34398da3d0bd56f294a0ec8ff357daed/docs/meetup/README.md) 目录中。
 
 ## 云原生学院成员
 
 云原生学院工作组负责云原生学院活动的日常维护，目前的核心成员包括：
 
-- [厉辉 yousali](https://github.com/Miss-you)
-- 众生苦
-- vince
-- tristan
+* [厉辉 yousali](https://github.com/Miss-you)
+* 众生苦
+* vince
+* tristan
 
 ## 如何发起分享提案？
 
