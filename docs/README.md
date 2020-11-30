@@ -8,3 +8,7 @@ description: 云原生学院
 
 - B 站视频空间（直播视频回放）：https://space.bilibili.com/515485124
 - B 站直播间：http://live.bilibili.com/22230973
+
+## 联系
+
+负责人：[厉辉（@miss-you）](https://github.com/miss-you)
