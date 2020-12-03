@@ -4,7 +4,7 @@ description: 云原生学院 B 站直播分享归档及排期表。
 
 # 线上分享日程表
 
-## 直播回放
+## B 站直播日程表
 
 云原生学院直播间地址：[https://live.bilibili.com/22230973](https://live.bilibili.com/22230973)
 
@@ -27,5 +27,5 @@ description: 云原生学院 B 站直播分享归档及排期表。
 
 ## PPT 下载
 
-PPT 下载见 [webinar](https://github.com/cloudnativeto/academy/tree/master/webinar/)。
+云原生学院直播过程中讲师分享的 PPT 下载见 [webinar](https://github.com/cloudnativeto/academy/tree/master/webinar/)。
 
