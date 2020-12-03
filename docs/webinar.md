@@ -6,10 +6,14 @@ description: 线上直播汇总
 
 ## 直播回放
 
-以下是历届线上分享的介绍及直播回看地址归档。
+云原生学院直播间地址：[https://live.bilibili.com/22230973](https://live.bilibili.com/22230973)
 
-| **期数** | **日期** | **标题** | **分享人** | **回看** |
+以下是历届线上分享汇总及未来直播排期表，关注[社区微信公众号](https://cloudnative.to/contact/)获取最新直播推送。
+
+| **期数** | **日期** | **标题** | 讲师 | **回看** |
 | :--- | :--- | :--- | :--- | :--- |
+| 12 | 2020-12-04 | [从数据库中间件到云原生——Apache ShardingSphere 架构演进](https://mp.weixin.qq.com/s/KvcIEYN9QvoncTEs5BnmDg) | 秦金卫 | Bilibili |
+| 11 | 2020-11-26 | [腾讯云 Kubernetes 高性能网络技术揭秘——使用 eBPF 增强 IPVS 优化 K8s 网络性能](https://mp.weixin.qq.com/s/rhe7uPfupYiUlR3WFq17RA) | 范建明 | [Bilibili](https://www.bilibili.com/video/BV1tZ4y1G735) |
 | **10** | 2020-11-19 | [APISIX SkyWalking 的最佳实践](https://mp.weixin.qq.com/s/pc_f3UrHt6MOf4o5jFeh4g) | 王院生 | [Bilibili](https://www.bilibili.com/video/BV1rA411x7vB) |
 | **9** | 2020-11-12 | [Harbor 助你玩转云原生](https://mp.weixin.qq.com/s/9zuCVBaC9fXmHSdiqymT5Q) | 邹佳 | [Bilibili](https://www.bilibili.com/video/BV17y4y167dP) |
 | **8** | 2020-10-28 | [基于 Kubernetes 构建标准可扩展的云原生应用管理平台](https://mp.weixin.qq.com/s/WFyvzKLCNzCe5dZ1IEKXJw) | 周正喜 | [Bilibili](https://www.bilibili.com/video/BV1r5411L7Qr) |
