@@ -1,7 +1,7 @@
 # Table of contents
 
 * [云原生学院](README.md)
-* [线上分享日程表](webinar.md)
+* [直播日程表](webinar.md)
 
 ## Meetup
 

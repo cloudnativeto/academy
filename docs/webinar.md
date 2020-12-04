@@ -1,12 +1,14 @@
 ---
-description: 云原生学院 B 站直播分享归档及排期表。
+description: 云原生学院 B 站直播分享归档及日程表。
 ---
 
-# 线上分享日程表
+# 直播日程表
 
 ## B 站直播日程表
 
-云原生学院直播间地址：[https://live.bilibili.com/22230973](https://live.bilibili.com/22230973)
+云原生学院 B 站直播间地址：[https://live.bilibili.com/22230973](https://live.bilibili.com/22230973)
+
+若你有想听或者分享的话题，或者有讲师推荐，可以在云原生学院的 GitHub 上[提交 Issue](https://github.com/cloudnativeto/academy/issues/new)。
 
 以下是历届线上分享汇总及未来直播排期表，关注[社区微信公众号](https://cloudnative.to/contact/)获取最新直播推送。
 
