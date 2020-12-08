@@ -14,6 +14,7 @@ description: 云原生学院 B 站直播分享归档及日程表。
 
 | **期数** | **日期** | **标题** | **讲师** | **回放** |
 | :--- | :--- | :--- | :--- | :--- |
+| **13** | 2020-12-10 | [Istio 流量管理原理与协议扩展](https://mp.weixin.qq.com/s/w5dDTgg1V5GSxBZVlrorZA) | 赵化冰 |Bilibili|
 | **12** | 2020-12-04 | [从数据库中间件到云原生——Apache ShardingSphere 架构演进](https://mp.weixin.qq.com/s/KvcIEYN9QvoncTEs5BnmDg) | 秦金卫 | Bilibili |
 | **11** | 2020-11-26 | [腾讯云 Kubernetes 高性能网络技术揭秘——使用 eBPF 增强 IPVS 优化 K8s 网络性能](https://mp.weixin.qq.com/s/rhe7uPfupYiUlR3WFq17RA) | 范建明 | [Bilibili](https://www.bilibili.com/video/BV1tZ4y1G735) |
 | **10** | 2020-11-19 | [APISIX SkyWalking 的最佳实践](https://mp.weixin.qq.com/s/pc_f3UrHt6MOf4o5jFeh4g) | 王院生 | [Bilibili](https://www.bilibili.com/video/BV1rA411x7vB) |
