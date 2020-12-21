@@ -66,5 +66,5 @@
 
 ## PPT 下载
 
-本次活动的 PPT 已归档到云原生学院的 [GitHub 仓库](https://github.com/cloudnativeto/academy/)，详见：[https://github.com/cloudnativeto/academy/tree/master/meetup/02-shanghai](https://github.com/cloudnativeto/academy/tree/master/meetup/02-shanghai)。
+本次活动的 PPT 已归档到云原生学院的 [GitHub 仓库](https://github.com/cloudnativeto/academy/)，详见：[https://github.com/cloudnativeto/academy/tree/master/meetup/02-beijing](https://github.com/cloudnativeto/academy/tree/master/meetup/02-beijing)。
 
