@@ -6,7 +6,7 @@
 * 地点：上海市虹桥万科中心
 * 主持人：郭旭东（云原生社区管委会成员、上海站站长）
 
-![&#x4E91;&#x539F;&#x751F;&#x793E;&#x533A; meetup &#x4E0A;&#x6D77;&#x7AD9;&#x8BB2;&#x5E08;&#x53CA;&#x4E3B;&#x8981;&#x5DE5;&#x4F5C;&#x4EBA;&#x5458;&#x5408;&#x5F71;](../.gitbook/assets/group-photo.jpg)
+![云原生社区 meetup 第一期上海站合影](./group-photo.jpg)
 
 上图为讲师及主要工作人员合影。
 
