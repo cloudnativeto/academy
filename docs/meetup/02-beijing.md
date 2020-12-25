@@ -8,7 +8,23 @@
 
 ![云原生社区 meetup 第二期北京站合影](./0081Kckwly1glvls6bxs7j31jk0q9ttq.jpg)
 
+## PPT 下载
+
+本次活动的 PPT 已归档到云原生学院的 [GitHub 仓库](https://github.com/cloudnativeto/academy/)，详见：[GitHub](https://github.com/cloudnativeto/academy/tree/master/meetup/02-beijing)。
+
+## 视频回放
+
+视频回放请点击下面的链接，跳转到 Bilibili 观看。
+
+- [Istio 1.8—— 还是从前那个少年（宋净超，Tetrate 布道师，云原生社区创始人）](https://www.bilibili.com/video/BV1Pz4y1k7zj)
+- [百度服务网格在金融行业的大规模落地实践（孙召昌，百度）](https://www.bilibili.com/video/BV17y4y1e7Pt)
+- [Apache Dubbo-go 在云原生时代的实践与探索（于雨，Dubbo-go 社区）](https://www.bilibili.com/video/BV1Jv411t7tn)
+- [云原生下的可观察性（张城，花名元乙，阿里云）](https://www.bilibili.com/video/BV1GK411g7dK)
+- [云原生分布式存储解决方案实践（刘硕然，OPPO）](https://www.bilibili.com/video/BV1cp4y1B7Su)
+
 ## 活动详情
+
+以下是本次活动的话题详情。
 
 ### Istio 1.8——还是从前那个少年
 
@@ -63,8 +79,3 @@
 个人介绍：OPPO互联网云平台分布式文件存储技术负责人，ChubaoFS初创成员及项目维护者。
 
 议题简介：ChubaoFS是云原生的分布式存储系统，目前已经在多家公司生产环境为大规模容器平台的云原生应用提供分布式存储解决方案。主要特点包括高可用，高可扩展，多租户，文件及对象双接口等。与云原生社区的生态也有非常紧密的结合，目前监控使用Prometheus，部署支持Helm，使用支持CSI driver。
-
-## PPT 下载
-
-本次活动的 PPT 已归档到云原生学院的 [GitHub 仓库](https://github.com/cloudnativeto/academy/)，详见：[https://github.com/cloudnativeto/academy/tree/master/meetup/02-beijing](https://github.com/cloudnativeto/academy/tree/master/meetup/02-beijing)。
-
