@@ -14,10 +14,10 @@ description: 云原生学院 B 站直播分享归档及日程表。
 
 | **期数** | **日期** | **标题** | **讲师** | **回放** |
 | :--- | :--- | :--- | :--- | :--- |
-| **15** | 2021-01-07 | [Envoy/Istio WebAssembly 扩展实现原理](https://mp.weixin.qq.com/s/9NNWxuPL0DBDHk72d-s5SA) | 边鹏远 |Bilibili|
-| **14** | 2020-12-24 | [Chaos Mesh 在网易伏羲私有云自动化故障注入实践](https://mp.weixin.qq.com/s/WdTiQojd9D3QnIjU8ltTiw) | 张慧 |Bilibili|
-| **13** | 2020-12-10 | [Istio 流量管理原理与协议扩展](https://mp.weixin.qq.com/s/w5dDTgg1V5GSxBZVlrorZA) | 赵化冰 |Bilibili|
-| **12** | 2020-12-04 | [从数据库中间件到云原生——Apache ShardingSphere 架构演进](https://mp.weixin.qq.com/s/KvcIEYN9QvoncTEs5BnmDg) | 秦金卫 | Bilibili |
+| **15** | 2021-01-07 | [Envoy/Istio WebAssembly 扩展实现原理](https://mp.weixin.qq.com/s/9NNWxuPL0DBDHk72d-s5SA) | 边鹏远 |[Bilibili](https://www.bilibili.com/video/BV1eK411u7Gy)|
+| **14** | 2020-12-24 | [Chaos Mesh 在网易伏羲私有云自动化故障注入实践](https://mp.weixin.qq.com/s/WdTiQojd9D3QnIjU8ltTiw) | 张慧 |[Bilibili](https://www.bilibili.com/video/BV11t4y1z73b)|
+| **13** | 2020-12-10 | [Istio 流量管理原理与协议扩展](https://mp.weixin.qq.com/s/w5dDTgg1V5GSxBZVlrorZA) | 赵化冰 |[Bilibili](https://www.bilibili.com/video/BV1Sf4y1e7mr)|
+| **12** | 2020-12-04 | [从数据库中间件到云原生——Apache ShardingSphere 架构演进](https://mp.weixin.qq.com/s/KvcIEYN9QvoncTEs5BnmDg) | 秦金卫 | [Bilibili](https://www.bilibili.com/video/BV1RK4y1V7hV) |
 | **11** | 2020-11-26 | [腾讯云 Kubernetes 高性能网络技术揭秘——使用 eBPF 增强 IPVS 优化 K8s 网络性能](https://mp.weixin.qq.com/s/rhe7uPfupYiUlR3WFq17RA) | 范建明 | [Bilibili](https://www.bilibili.com/video/BV1tZ4y1G735) |
 | **10** | 2020-11-19 | [APISIX SkyWalking 的最佳实践](https://mp.weixin.qq.com/s/pc_f3UrHt6MOf4o5jFeh4g) | 王院生 | [Bilibili](https://www.bilibili.com/video/BV1rA411x7vB) |
 | **9** | 2020-11-12 | [Harbor 助你玩转云原生](https://mp.weixin.qq.com/s/9zuCVBaC9fXmHSdiqymT5Q) | 邹佳 | [Bilibili](https://www.bilibili.com/video/BV17y4y167dP) |
