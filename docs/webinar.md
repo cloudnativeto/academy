@@ -14,6 +14,7 @@ description: 云原生学院 B 站直播分享归档及日程表。
 
 | **期数** | **日期** | **标题** | **讲师** | **回放** |
 | :--- | :--- | :--- | :--- | :--- |
+| **16** | 2021-01-20 | [云原生 Kubernetes 架构分析与最佳实践](https://mp.weixin.qq.com/s/BOF_4f12CuVkpJ4DQ-P_kg) | 苏夏 |[Bilibili]()|
 | **15** | 2021-01-07 | [Envoy/Istio WebAssembly 扩展实现原理](https://mp.weixin.qq.com/s/9NNWxuPL0DBDHk72d-s5SA) | 边鹏远 |[Bilibili](https://www.bilibili.com/video/BV1eK411u7Gy)|
 | **14** | 2020-12-24 | [Chaos Mesh 在网易伏羲私有云自动化故障注入实践](https://mp.weixin.qq.com/s/WdTiQojd9D3QnIjU8ltTiw) | 张慧 |[Bilibili](https://www.bilibili.com/video/BV11t4y1z73b)|
 | **13** | 2020-12-10 | [Istio 流量管理原理与协议扩展](https://mp.weixin.qq.com/s/w5dDTgg1V5GSxBZVlrorZA) | 赵化冰 |[Bilibili](https://www.bilibili.com/video/BV1Sf4y1e7mr)|
