@@ -14,7 +14,7 @@
 
 | **期数** | **日期** | **标题** | **讲师** | **回放** |
 | :--- | :--- | :--- | :--- | :--- |
-| **17** | 2021-01-20 | [云原生 Kubernetes 架构分析与最佳实践](https://mp.weixin.qq.com/s/BOF_4f12CuVkpJ4DQ-P_kg) | 苏夏 |[Bilibili]()|
+| **17** | 2021-01-20 | [云原生 Kubernetes 架构分析与最佳实践](https://mp.weixin.qq.com/s/BOF_4f12CuVkpJ4DQ-P_kg) | 苏夏 |[Bilibili](https://www.bilibili.com/video/BV1kX4y1N7vm)|
 | **16** | 2021-01-14 | [开源的云原生开发环境 —— Nocalhost](https://mp.weixin.qq.com/s/CTckgV6v-4O3aRM9yprvfA) | 王炜 |[Bilibili]()|
 | **15** | 2021-01-07 | [Envoy/Istio WebAssembly 扩展实现原理](https://mp.weixin.qq.com/s/9NNWxuPL0DBDHk72d-s5SA) | 边鹏远 |[Bilibili](https://www.bilibili.com/video/BV1eK411u7Gy)|
 | **14** | 2020-12-24 | [Chaos Mesh 在网易伏羲私有云自动化故障注入实践](https://mp.weixin.qq.com/s/WdTiQojd9D3QnIjU8ltTiw) | 张慧 |[Bilibili](https://www.bilibili.com/video/BV11t4y1z73b)|
