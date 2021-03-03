@@ -14,6 +14,7 @@ description: 云原生学院 B 站直播分享归档及日程表。
 
 | **期数** | **日期** | **标题** | **讲师** | **回放** |
 | :--- | :--- | :--- | :--- | :--- |
+| **18** | 2021-03-04 | [IstioCon 2021 回顾及开源项目 GetIstio 介绍](https://mp.weixin.qq.com/s/u-11OGpVFr71XacD8Qv1Jw) | 宋净超、周礼赞 |Bilibili|
 | **17** | 2021-01-20 | [云原生 Kubernetes 架构分析与最佳实践](https://mp.weixin.qq.com/s/BOF_4f12CuVkpJ4DQ-P_kg) | 苏夏 |[Bilibili](https://www.bilibili.com/video/BV1kX4y1N7vm)|
 | **16** | 2021-01-14 | [开源的云原生开发环境 —— Nocalhost](https://mp.weixin.qq.com/s/CTckgV6v-4O3aRM9yprvfA) | 王炜 |[Bilibili](https://www.bilibili.com/video/BV1ch411C716/)|
 | **15** | 2021-01-07 | [Envoy/Istio WebAssembly 扩展实现原理](https://mp.weixin.qq.com/s/9NNWxuPL0DBDHk72d-s5SA) | 边鹏远 |[Bilibili](https://www.bilibili.com/video/BV1eK411u7Gy)|
