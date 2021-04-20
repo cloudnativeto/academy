@@ -4,7 +4,7 @@
 
 下面是组委会成员&志愿者合影。
 
-![组委会成员&志愿者合影](https://tva1.sinaimg.cn/large/008eGmZEly1gpq0zpp2xvj31900u0kjl.jpg) 
+![组委会成员&志愿者合影](hangzhou-volunteer.jpg) 
 
 下面是参会人员合影。
 
