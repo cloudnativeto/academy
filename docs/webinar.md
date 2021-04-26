@@ -14,7 +14,11 @@ description: 云原生学院 B 站直播分享归档及日程表。
 
 | **期数** | **日期** | **标题** | **讲师** | **回放** |
 | :--- | :--- | :--- | :--- | :--- |
+<<<<<<< HEAD
 | **19** | 2021-04-04 | [Knative 和 Istio 在 serverless 公有云平台中的应用、实践和挑战](https://mp.weixin.qq.com/s/cTyjfMBk4B4KcqOFuzXyLQ) | 张龚 |[Bilibili](https://www.bilibili.com/video/BV12K4y1o72s)|
+=======
+| **19** | 2021-04-21 | [Knative和Istio在serverless公有云平台中的应用、实践和挑战](https://mp.weixin.qq.com/s/YSkbJnUts2zQsrzEWwMWPg) | 张龚 |[Bilibili](https://www.bilibili.com/video/BV12K4y1o72s/)|
+>>>>>>> b9e1cc8293746a92792621f3feacd63fa3e2e005
 | **18** | 2021-03-04 | [IstioCon 2021 回顾及开源项目 GetIstio 介绍](https://mp.weixin.qq.com/s/u-11OGpVFr71XacD8Qv1Jw) | 宋净超、周礼赞 |[Bilibili](https://bilibili.com/video/BV1RK4y1K7UA)|
 | **17** | 2021-01-20 | [云原生 Kubernetes 架构分析与最佳实践](https://mp.weixin.qq.com/s/BOF_4f12CuVkpJ4DQ-P_kg) | 苏夏 |[Bilibili](https://www.bilibili.com/video/BV1kX4y1N7vm)|
 | **16** | 2021-01-14 | [开源的云原生开发环境 —— Nocalhost](https://mp.weixin.qq.com/s/CTckgV6v-4O3aRM9yprvfA) | 王炜 |[Bilibili](https://www.bilibili.com/video/BV1ch411C716/)|
