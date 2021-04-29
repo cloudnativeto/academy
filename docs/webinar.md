@@ -14,7 +14,6 @@ description: 云原生学院 B 站直播分享归档及日程表。
 
 | **期数** | **日期** | **标题** | **讲师** | **回放** |
 | :--- | :--- | :--- | :--- | :--- |
-<<<<<<< HEAD
 | **19** | 2021-04-04 | [Knative 和 Istio 在 serverless 公有云平台中的应用、实践和挑战](https://mp.weixin.qq.com/s/cTyjfMBk4B4KcqOFuzXyLQ) | 张龚 |[Bilibili](https://www.bilibili.com/video/BV12K4y1o72s)|
 =======
 | **19** | 2021-04-21 | [Knative和Istio在serverless公有云平台中的应用、实践和挑战](https://mp.weixin.qq.com/s/YSkbJnUts2zQsrzEWwMWPg) | 张龚 |[Bilibili](https://www.bilibili.com/video/BV12K4y1o72s/)|
