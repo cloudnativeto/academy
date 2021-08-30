@@ -4,7 +4,27 @@
 - 地点：北京市建国路 93 号万达广场 A 座新世界百货 7 层良辉会议室
 - 主持人：张丽颖（云原生社区管委会成员）
 
+下面是关于本次活动的介绍，欢迎关注云原生社区活动唯一报名渠道[活动行](https://cloudnative.huodongxing.com/)获取后续活动信息。
+
+![云原生社区 meetup 第二期北京站合影](./group-photo.jpg)
+
+## PPT 下载
+
+本次活动的 PPT 已归档到云原生学院的 [GitHub 仓库](https://github.com/cloudnativeto/academy/)，详见：[GitHub](https://github.com/cloudnativeto/academy/tree/master/meetup/02-beijing)。
+
+## 视频回放
+
+视频回放请点击下面的链接，跳转到 Bilibili 观看。
+
+- [Istio 1.8—— 还是从前那个少年（宋净超，Tetrate 布道师，云原生社区创始人）](https://www.bilibili.com/video/BV1Pz4y1k7zj)
+- [百度服务网格在金融行业的大规模落地实践（孙召昌，百度）](https://www.bilibili.com/video/BV17y4y1e7Pt)
+- [Apache Dubbo-go 在云原生时代的实践与探索（于雨，Dubbo-go 社区）](https://www.bilibili.com/video/BV1Jv411t7tn)
+- [云原生下的可观察性（张城，花名元乙，阿里云）](https://www.bilibili.com/video/BV1GK411g7dK)
+- [云原生分布式存储解决方案实践（刘硕然，OPPO）](https://www.bilibili.com/video/BV1cp4y1B7Su)
+
 ## 活动详情
+
+以下是本次活动的话题详情。
 
 ### Istio 1.8——还是从前那个少年
 
@@ -39,6 +59,10 @@
 2. 基于 MOSN 的云原生 Service Mesh 能力
 3. 基于应用级注册的服务自省能力
 4. dubbo-go 3.0 规划
+
+### 合影、中场休息、签售
+
+中场休息时会有《云原生操作系统 Kubernetes》作者之一张城为大家现场签售。
 
 ### 云原生下的可观察性
 
