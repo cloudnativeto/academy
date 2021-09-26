@@ -11,4 +11,4 @@
 * [第四期·广州站](meetup/04-guangzhou/README.md)
 * [第五期·成都站](meetup/05-chengdu/README.md)
 * [第六期·大连站](meetup/06-dalian/README.md)
-
+* [第七期·深圳站](meetup/07-shenzhen/README.md)
