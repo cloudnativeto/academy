@@ -3,6 +3,7 @@
 - 时间：2021 年 8 月 22 日
 - 主持人：马景贺
 - 详见：[活动行](https://www.huodongxing.com/event/5608315092100)
+- [PPT 下载](https://github.com/cloudnativeto/academy/tree/master/meetup/06-dalian)
 
 ![云原生社区 meetup 大连站合影](cloud-native-meetup-dalian-06.jpg
 )

@@ -4,6 +4,7 @@
 - 主持人：王炜
 - 地点：深圳腾讯大厦
 - 详见：[活动行](https://3372087382093.huodongxing.com/event/4614510524000)
+- [PPT 下载](https://github.com/cloudnativeto/academy/tree/master/meetup/07-shenzhen)
 
 ![云原生社区 meetup 深圳站合影](shenzhen.jpg
 )

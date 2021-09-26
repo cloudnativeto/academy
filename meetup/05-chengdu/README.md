@@ -3,6 +3,7 @@
 - 时间：2021 年 7 月 3 日
 - 地点：四川省成都市高新区银泰城 4 号楼 13 层
 - 主持人：粟伟
+- [PPT 下载](https://github.com/cloudnativeto/academy/tree/master/meetup/05-chengdu)
 
 ![云原生社区 meetup 第五期成都站合影](cloud-native-chengdu.jpg)
 

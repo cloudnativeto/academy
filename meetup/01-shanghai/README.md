@@ -3,6 +3,7 @@
 * 时间：2020 年 11 月 28 日（星期六）
 * 地点：上海市虹桥万科中心
 * 主持人：郭旭东（云原生社区管委会成员、上海站站长）
+* [PPT 下载](https://github.com/cloudnativeto/academy/tree/master/meetup/01-shanghai)
 
 ![云原生社区 meetup 第一期上海站合影](group-photo.jpg)
 

@@ -3,6 +3,7 @@
 - 时间：2020 年 12 月 20 日（星期日）
 - 地点：北京市建国路 93 号万达广场 A 座新世界百货 7 层良辉会议室
 - 主持人：张丽颖（云原生社区管委会成员）
+- [PPT 下载](https://github.com/cloudnativeto/academy/tree/master/meetup/02-beijing)
 
 下面是关于本次活动的介绍，欢迎关注云原生社区活动唯一报名渠道[活动行](https://cloudnative.huodongxing.com/)获取后续活动信息。
 

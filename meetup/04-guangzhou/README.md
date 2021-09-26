@@ -3,6 +3,7 @@
 * 时间：2021 年 5 月 22 日（星期六）下午
 * 地点：广州 (国际) 科技成果转化天河基地八楼人才培训室
 * 支持人：梁雪冰（广州站志愿者）
+* [PPT 下载](https://github.com/cloudnativeto/academy/tree/master/meetup/04-guangzhou)
 
 组委会、志愿者及部分讲师合影：
 

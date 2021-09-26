@@ -3,6 +3,7 @@
 - 时间：2021 年 04 月 17 日（星期六）
 - 地点：浙江省杭州市西湖区蒋村街道中节能·西溪首座A1-213
 - 主持人：杨宙（云原生社区杭州站站长）
+- [PPT 下载](https://github.com/cloudnativeto/academy/tree/master/meetup/03-hangzhou)
 
 下面是组委会成员&志愿者合影。
 
