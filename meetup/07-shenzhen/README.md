@@ -16,3 +16,4 @@
 - [云原生场景下的开发和调试-汪晟杰，黄金浩](https://www.bilibili.com/video/BV1hf4y1E7KJ)
 - [Envoy 在腾讯游戏云原生平台应用 - 田甜](https://www.bilibili.com/video/BV1LL411476c)
 - [使用 KubeVela 构建混合云应用管理平台 - 邓洪超](https://www.bilibili.com/video/BV1TQ4y1C7xx)
+
