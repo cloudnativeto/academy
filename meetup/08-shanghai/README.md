@@ -1,8 +1,8 @@
-# 云原生社区 meetup 第 8 期深圳站
+# 云原生社区 meetup 第 8 期上海站
 
 - 时间：2021 年 10 月 23 日
 - 主持人：郭旭东
-- 地点：蚂蚁 S 空间
+- 地点：上海蚂蚁 S 空间
 - 详见：[活动行](https://cloudnative.huodongxing.com/event/6619412646200)
 - [PPT 下载](https://github.com/cloudnativeto/academy/tree/master/meetup/08-shanghai)
 
