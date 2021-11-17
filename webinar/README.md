@@ -12,6 +12,8 @@
 
 | **期数** | **日期** | **标题** | **讲师** | **回放** |
 | :--- | :--- | :--- | :--- | :--- |
+| **23** | 2021-11-17 | [云原生观察性、自动化交付以及 IaC 等之道](https://mp.weixin.qq.com/s/HWXinXoQQ7n7Ch2juzrfJw) |高磊 | TBD |
+| **22** | 2021-10-27 | [云原生的缘起、云原生底座、PaaS 以及 Service Mesh 等之道](https://mp.weixin.qq.com/s/ClsQhC030IGVXD-gptAtAA) | 高磊 | [Bilibili](https://www.bilibili.com/video/BV1tR4y1t7p8) |
 | **21** | 2021-08-05 | [破解 Kubernetes 应用开发困局——实时热加载和一键 Debug](https://mp.weixin.qq.com/s/uIB02Gq8H435p8UR1eMI6whttps://www.bilibili.com/video/BV1Fh411B7Vb) | 王炜 |[Bilibili](https://www.bilibili.com/video/BV1Fh411B7Vb)|
 | **20** | 2021-06-24 | [开课吧基于混合云的 Kubernetes 平台落地实践](https://mp.weixin.qq.com/s/O-OIHmmag_JqEcciRNnTLA) | 程亮 | [Bilibili](https://www.bilibili.com/video/BV1wv411H71q/) |
 | **19** | 2021-04-21 | [Knative和Istio在serverless公有云平台中的应用、实践和挑战](https://mp.weixin.qq.com/s/YSkbJnUts2zQsrzEWwMWPg) | 张龚 |[Bilibili](https://www.bilibili.com/video/BV12K4y1o72s/)|
