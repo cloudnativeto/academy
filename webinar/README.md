@@ -1,10 +1,19 @@
 # 直播日程表
 
-云原生学院 B 站直播间地址：[https://live.bilibili.com/22230973](https://live.bilibili.com/22230973)
+你可以通过以下方式观看云原生学院直播分享：
+
+- 云原生社区 B 站直播间：[https://live.bilibili.com/22230973](https://live.bilibili.com/22230973)
+- 微信视频号：云原生社区
+
+![云原生社区视频号](../images/视频号.png)
 
 若你有想听或者分享的话题，或者有讲师推荐，可以在云原生学院的 GitHub 上 [提交 Issue](https://github.com/cloudnativeto/academy/issues/new)。
 
 以下是历届线上分享汇总及未来直播排期表，关注 [社区微信公众号](https://cloudnative.to/contact/) 获取最新直播推送。
+
+## PPT 下载
+
+云原生学院直播过程中讲师分享的 PPT 下载见 [webinar](https://github.com/cloudnativeto/academy/tree/master/webinar/)。
 
 ## 历史归档
 
@@ -16,7 +25,7 @@
 | **22** | 2021-10-27 | [云原生的缘起、云原生底座、PaaS 以及 Service Mesh 等之道](https://mp.weixin.qq.com/s/ClsQhC030IGVXD-gptAtAA) | 高磊 | [Bilibili](https://www.bilibili.com/video/BV1tR4y1t7p8) |
 | **21** | 2021-08-05 | [破解 Kubernetes 应用开发困局——实时热加载和一键 Debug](https://mp.weixin.qq.com/s/uIB02Gq8H435p8UR1eMI6whttps://www.bilibili.com/video/BV1Fh411B7Vb) | 王炜 |[Bilibili](https://www.bilibili.com/video/BV1Fh411B7Vb)|
 | **20** | 2021-06-24 | [开课吧基于混合云的 Kubernetes 平台落地实践](https://mp.weixin.qq.com/s/O-OIHmmag_JqEcciRNnTLA) | 程亮 | [Bilibili](https://www.bilibili.com/video/BV1wv411H71q/) |
-| **19** | 2021-04-21 | [Knative和Istio在serverless公有云平台中的应用、实践和挑战](https://mp.weixin.qq.com/s/YSkbJnUts2zQsrzEWwMWPg) | 张龚 |[Bilibili](https://www.bilibili.com/video/BV12K4y1o72s/)|
+| **19** | 2021-04-21 | [Knative 和 Istio 在 serverless 公有云平台中的应用、实践和挑战](https://mp.weixin.qq.com/s/YSkbJnUts2zQsrzEWwMWPg) | 张龚 |[Bilibili](https://www.bilibili.com/video/BV12K4y1o72s/)|
 | **18** | 2021-03-04 | [IstioCon 2021 回顾及开源项目 GetIstio 介绍](https://mp.weixin.qq.com/s/u-11OGpVFr71XacD8Qv1Jw) | 宋净超、周礼赞 |[Bilibili](https://bilibili.com/video/BV1RK4y1K7UA)|
 | **17** | 2021-01-20 | [云原生 Kubernetes 架构分析与最佳实践](https://mp.weixin.qq.com/s/BOF_4f12CuVkpJ4DQ-P_kg) | 苏夏 |[Bilibili](https://www.bilibili.com/video/BV1kX4y1N7vm)|
 | **16** | 2021-01-14 | [开源的云原生开发环境 —— Nocalhost](https://mp.weixin.qq.com/s/CTckgV6v-4O3aRM9yprvfA) | 王炜 |[Bilibili](https://www.bilibili.com/video/BV1ch411C716/)|
@@ -35,7 +44,3 @@
 | **3** | 2020-09-17 | [基于 Apache APISIX 的全流量 API 网关](https://mp.weixin.qq.com/s/p8__ZXzOANRD4RkmcuegXA) | 温铭 | [Bilibili](https://www.bilibili.com/video/BV1Gt4y1q7qC) |
 | **2** | 2020-08-20 | [TiDB Operator 架构与实现](https://mp.weixin.qq.com/s/csvunkyScbzV1E3ypCTOZA) | 付业成 | [Bilibili](https://www.bilibili.com/video/BV1Zt4y1U74M) |
 | **1** | 2020-08-13 | [后分布式追踪时代的性能问题定位——方法级性能剖析](https://mp.weixin.qq.com/s/-i-KP5JTd1mUiMMK0gVRDA) | 吴晟 | [Bilibili](https://www.bilibili.com/video/BV1D541187kC) |
-
-## PPT 下载
-
-云原生学院直播过程中讲师分享的 PPT 下载见 [webinar](https://github.com/cloudnativeto/academy/tree/master/webinar/)。
