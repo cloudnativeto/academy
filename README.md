@@ -19,4 +19,6 @@
 
 关注云原生社区的微信公众号，我们将会定期发布分享预告，以及不定期的分享优质的技术文章。
 
-![](images/subscription.png)
+<p align="center">
+   <img src="images/subscription.png" alt="云原生社区公众号">
+</p>
