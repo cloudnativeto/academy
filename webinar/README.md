@@ -23,6 +23,7 @@
 
 | **期数** | **日期** | **标题** | **讲师** | **回放** |
 | :--- | :--- | :--- | :--- | :--- |
+| **24** | 2021-12-01 | [云原生产品与架构系列第 3 讲：云原生中间件之道](https://mp.weixin.qq.com/s/q4F-_MBdbagx3ePeRSMpcw) |高磊 | [Bilibili](https://www.bilibili.com/video/BV1qQ4y1i7Ni/) |
 | **23** | 2021-11-17 | [云原生产品与架构系列第 2 讲：云原生观察性、自动化交付以及 IaC 等之道](https://mp.weixin.qq.com/s/HWXinXoQQ7n7Ch2juzrfJw) |高磊 | [Bilibili](https://www.bilibili.com/video/BV1L34y1o7ou) |
 | **22** | 2021-10-27 | [云原生产品与架构系列第 1 讲：云原生的缘起、云原生底座、PaaS 以及 Service Mesh 等之道](https://mp.weixin.qq.com/s/ClsQhC030IGVXD-gptAtAA) | 高磊 | [Bilibili](https://www.bilibili.com/video/BV1tR4y1t7p8) |
 | **21** | 2021-08-05 | [破解 Kubernetes 应用开发困局——实时热加载和一键 Debug](https://mp.weixin.qq.com/s/uIB02Gq8H435p8UR1eMI6whttps://www.bilibili.com/video/BV1Fh411B7Vb) | 王炜 |[Bilibili](https://www.bilibili.com/video/BV1Fh411B7Vb)|
