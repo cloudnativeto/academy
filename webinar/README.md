@@ -23,6 +23,7 @@
 
 | **期数** | **日期** | **标题** | **讲师** | **回放** |
 | :--- | :--- | :--- | :--- | :--- |
+| **25** | 2021-12-08 | [云原生应用可观测性实践](https://mp.weixin.qq.com/s/oVxW-N6xHlVvWonv289UAQ) | 向阳 | [Bilibili](https://bilibili.com/video/BV1CL411777R) |
 | **24** | 2021-12-01 | [云原生产品与架构系列第 3 讲：云原生中间件之道](https://mp.weixin.qq.com/s/q4F-_MBdbagx3ePeRSMpcw) |高磊 | [Bilibili](https://www.bilibili.com/video/BV1qQ4y1i7Ni/) |
 | **23** | 2021-11-17 | [云原生产品与架构系列第 2 讲：云原生观察性、自动化交付以及 IaC 等之道](https://mp.weixin.qq.com/s/HWXinXoQQ7n7Ch2juzrfJw) |高磊 | [Bilibili](https://www.bilibili.com/video/BV1L34y1o7ou) |
 | **22** | 2021-10-27 | [云原生产品与架构系列第 1 讲：云原生的缘起、云原生底座、PaaS 以及 Service Mesh 等之道](https://mp.weixin.qq.com/s/ClsQhC030IGVXD-gptAtAA) | 高磊 | [Bilibili](https://www.bilibili.com/video/BV1tR4y1t7p8) |
