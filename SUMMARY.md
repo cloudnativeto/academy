@@ -2,6 +2,7 @@
 
 * [云原生学院介绍](README.md)
 * [直播日程表](webinar/README.md)
+* [直播操作手册](webinar/manual.md)
 
 ## 城市站 meetup
 
