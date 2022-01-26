@@ -23,7 +23,10 @@
 
 | **期数** | **日期** | **标题** | **讲师** | **回放** |
 | :--- | :--- | :--- | :--- | :--- |
+| **29** | 2022-01-20 | [PPIO 边缘云的云原生应用实践](https://mp.weixin.qq.com/s/6KBzkoPRpsU_YwWAzsb1zQ) | 蒋鑫 | [Bilibili](https://www.bilibili.com/video/BV12q4y1C7nP) |
+| **28** | 2022-01-19 | [云原生事件网格 Apache EventMesh（Incubating）入门](https://mp.weixin.qq.com/s/JRvP0Cf8UPmkdZBFLd6PYw) | 薛炜明 | [Bilibili](https://bilibili.com/video/BV1kP4y1P7m8) |
 | **27** | 2021-12-22 | [云原生产品与架构系列讲座第 4 讲：云原生赋能 AIoT 和边缘计算、云形态以及成熟度模型之道](https://mp.weixin.qq.com/s/7kRC9x5_OyHNCDqf9JmQyA) | 高磊 | [Bilibili](https://www.bilibili.com/video/BV1bL4y1n7yH/) |
+| **26** | 2021-12-21 | [FreeWheel 云原生应用实践](https://mp.weixin.qq.com/s/-UYhN8QA7IvbLyQ-Sc9RWQ) | 马若飞 | [Bilibili](https://www.bilibili.com/video/BV1DP4y1J7kQ) |
 | **25** | 2021-12-08 | [云原生应用可观测性实践](https://mp.weixin.qq.com/s/oVxW-N6xHlVvWonv289UAQ) | 向阳 | [Bilibili](https://bilibili.com/video/BV1CL411777R) |
 | **24** | 2021-12-01 | [云原生产品与架构系列第 3 讲：云原生中间件之道](https://mp.weixin.qq.com/s/q4F-_MBdbagx3ePeRSMpcw) |高磊 | [Bilibili](https://www.bilibili.com/video/BV1qQ4y1i7Ni/) |
 | **23** | 2021-11-17 | [云原生产品与架构系列第 2 讲：云原生观察性、自动化交付以及 IaC 等之道](https://mp.weixin.qq.com/s/HWXinXoQQ7n7Ch2juzrfJw) |高磊 | [Bilibili](https://www.bilibili.com/video/BV1L34y1o7ou) |
