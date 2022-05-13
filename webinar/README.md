@@ -23,6 +23,7 @@
 
 | **期数** | **日期** | **标题** | **讲师** | **回放** |
 | :--- | :--- | :--- | :--- | :--- |
+| **30** | 2022-05-11 | [MetaFlow高度自动化的可观测性平台](https://mp.weixin.qq.com/s/g47dbUU0HrzMHh0nz4PPKg) | 向阳 | Bilibili |
 | **29** | 2022-01-20 | [PPIO 边缘云的云原生应用实践](https://mp.weixin.qq.com/s/6KBzkoPRpsU_YwWAzsb1zQ) | 蒋鑫 | [Bilibili](https://www.bilibili.com/video/BV12q4y1C7nP) |
 | **28** | 2022-01-19 | [云原生事件网格 Apache EventMesh（Incubating）入门](https://mp.weixin.qq.com/s/JRvP0Cf8UPmkdZBFLd6PYw) | 薛炜明 | [Bilibili](https://bilibili.com/video/BV1kP4y1P7m8) |
 | **27** | 2021-12-22 | [云原生产品与架构系列讲座第 4 讲：云原生赋能 AIoT 和边缘计算、云形态以及成熟度模型之道](https://mp.weixin.qq.com/s/7kRC9x5_OyHNCDqf9JmQyA) | 高磊 | [Bilibili](https://www.bilibili.com/video/BV1bL4y1n7yH/) |
