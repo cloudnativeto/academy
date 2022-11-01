@@ -7,6 +7,6 @@
 - 云原生学院直播幻灯片：见 [webinar](https://github.com/cloudnativeto/academy/tree/master/webinar/) 目录
 - 云原生社区 meetup：见 [meetup](./meetup/) 目录
 - 服务网格峰会幻灯片：见 [service-mesh-summit](./service-mesh-summit/) 目录
-
+- 云原生 DevOps 技术开放日暨中国开源年会大连分会场幻灯片：见 [dalian-coscon-2022](./dalian-coscon-2022) 目录
 
 
