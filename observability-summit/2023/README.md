@@ -8,15 +8,15 @@
 
 活动详情：https://www.huodongxing.com/event/6695157778700
 
-![Untitled](image/Untitled.jpeg)
+![](image/f0.jpeg)
 
 本次大会的主持人来自云原生社区管委会，上半场主持人为罗广明。
 
-![Untitled](image/Untitled%201.jpeg)
+![](image/f1.jpeg)
 
 下半场主持人张丽颖。
 
-![Untitled](image/Untitled%202.jpeg)
+![](image/f2.jpeg)
 
 ### 开场致辞
 
@@ -24,21 +24,21 @@
 
 宋净超，云原生社区创始人
 
-![Untitled](image/Untitled%203.jpeg)
+![](image/f3.jpeg)
 
 陈屹力，中国信通院云大所副总工程师
 
-![Untitled](image/Untitled%204.jpeg)
+![](image/f4.jpeg)
 
 视频链接：[https://www.bilibili.com/video/BV1zV4y1o79E/](https://www.bilibili.com/video/BV1zV4y1o79E/)
 
-![Untitled](image/Untitled.png)
+![](image/f14.png)
 
 ### 可观测性OpsCenter在移动云平台落地实践
 
 沈巍，中国移动云能力中心架构师
 
-![Untitled](image/Untitled%205.jpeg)
+![](image/f5.jpeg)
 
 **讲师介绍**
 
@@ -52,13 +52,13 @@
 
 视频链接：[https://www.bilibili.com/video/BV1GX4y1B7qG/](https://www.bilibili.com/video/BV1GX4y1B7qG/)
 
-![Untitled](image/Untitled%201.png)
+![](image/f1.png)
 
 ### 使用 eBPF 零代码修改绘制全景应用拓扑
 
 向阳，云杉网络
 
-![Untitled](image/Untitled%206.jpeg)
+![](image/f6.jpeg)
 
 **讲师介绍**
 
@@ -70,13 +70,13 @@
 
 视频链接：[https://www.bilibili.com/video/BV1B14y1f7UB/](https://www.bilibili.com/video/BV1B14y1f7UB/)
 
-![Untitled](image/Untitled%202.png)
+![](image/f2.png)
 
 ### 可观测技术应用现状及发展趋势研究
 
 高继翔，中国信通院
 
-![Untitled](image/Untitled%207.jpeg)
+![](image/f7.jpeg)
 
 **讲师介绍**
 
@@ -88,11 +88,11 @@
 
 视频链接：[https://www.bilibili.com/video/BV1xv4y1E7wF/](https://www.bilibili.com/video/BV1xv4y1E7wF/)
 
-![Untitled](image/Untitled%203.png)
+![](image/f3.png)
 
 ### 圆桌讨论：云原生应用可观测性现状及趋势
 
-![Untitled](image/Untitled%208.jpeg)
+![](image/f8.jpeg)
 
 **嘉宾**
 
@@ -110,7 +110,7 @@
 
 视频链接：[https://www.bilibili.com/video/BV1is4y1d7gd/](https://www.bilibili.com/video/BV1is4y1d7gd/)
 
-![Untitled](image/Untitled%204.png)
+![](image/f4.png)
 
 ---
 
@@ -118,7 +118,7 @@
 
 宋佳洋，Oppo
 
-![Untitled](image/Untitled%209.jpeg)
+![](image/f9.jpeg)
 
 **讲师介绍**
 
@@ -134,13 +134,13 @@
 
 视频链接：[https://www.bilibili.com/video/BV1jV4y1o7Q7/](https://www.bilibili.com/video/BV1jV4y1o7Q7/)
 
-![Untitled](image/Untitled%205.png)
+![](image/f5.png)
 
 ### 为 Apache SkyWalking 构建 Grafana dashboards -- 基于对原生 PromQL 的支持
 
 万凯，Tetrate
 
-![Untitled](image/Untitled%2010.jpeg)
+![](image/f10.jpeg)
 
 **讲师介绍**
 
@@ -158,13 +158,13 @@
 
 视频链接：[https://www.bilibili.com/video/BV1ms4y1d7NF/](https://www.bilibili.com/video/BV1ms4y1d7NF/)
 
-![Untitled](image/Untitled%206.png)
+![](image/f6.png)
 
 ### Apache Dubbo 云原生可观测性的探索与实践
 
 江河清，阿里巴巴
 
-![Untitled](image/Untitled%2011.jpeg)
+![](image/f11.jpeg)
 
 **讲师介绍**
 
@@ -181,13 +181,13 @@ Apache Dubbo PMC，阿里云研发工程师，专注于服务框架，Apache Dub
 
 视频链接：[https://www.bilibili.com/video/BV1mV4y1o7Uj/](https://www.bilibili.com/video/BV1mV4y1o7Uj/)
 
-![Untitled](image/Untitled%207.png)
+![](image/f7.png)
 
 ### 我为可观测性做减法：微信日志热点约简实践与探索
 
 余广坝，中山大学
 
-![Untitled](image/Untitled%2012.jpeg)
+![](image/f12.jpeg)
 
 **讲师介绍**
 
@@ -203,13 +203,13 @@ Apache Dubbo PMC，阿里云研发工程师，专注于服务框架，Apache Dub
 
 视频链接：[https://www.bilibili.com/video/BV1Ec411J7sk/](https://www.bilibili.com/video/BV1Ec411J7sk/)
 
-![Untitled](image/Untitled%208.png)
+![](image/f8.png)
 
 ### 使用 eBPF+WASM 构建下一代可观测性数据采集基础设施
 
 赵亚雄，三度观测云（tricorder.dev）创始人 CEO
 
-![Untitled](image/Untitled%2013.jpeg)
+![](image/f13.jpeg)
 
 **讲师介绍**
 
@@ -226,7 +226,7 @@ Apache Dubbo PMC，阿里云研发工程师，专注于服务框架，Apache Dub
 
 视频链接：[https://www.bilibili.com/video/BV1kM411V7Y9/](https://www.bilibili.com/video/BV1kM411V7Y9/)
 
-![Untitled](image/Untitled%209.png)
+![](image/f9.png)
 
 ### 大会总结
 
