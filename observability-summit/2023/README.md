@@ -241,3 +241,5 @@ Apache Dubbo PMC，阿里云研发工程师，专注于服务框架，Apache Dub
 ## PPT 下载
 
 讲师 PPT 可以在 GitHub 上下载，下载链接：<https://github.com/cloudnativeto/academy>
+
+或通过腾讯微云下载：https://share.weiyun.com/pNOVlyjG
